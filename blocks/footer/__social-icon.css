@@ -1,0 +1,9 @@
+.footer__social-icon {
+  margin: 0;
+  padding: 0;
+  display: inline;
+  position: relative;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}

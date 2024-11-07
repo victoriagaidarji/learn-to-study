@@ -1,0 +1,9 @@
+.footer__column-heading {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: bold;
+  color: #f2f2f2;
+}

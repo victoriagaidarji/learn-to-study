@@ -1,0 +1,10 @@
+.cards__image {
+  padding: 0;
+  margin-right: 40px;
+  margin-top: 60px;
+  margin-bottom: 43px;
+  margin-left: 40px;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}

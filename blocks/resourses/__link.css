@@ -1,0 +1,14 @@
+.resourses__link {
+  position: relative;
+  color: #2f80ed;
+  width: 270px;
+  height: 38px;
+  z-index: 1;
+  opacity: 1;
+  transition: opacity 0.3s linear 0.1s;
+}
+
+.resourses__link:hover {
+  opacity: 0.5;
+}
+

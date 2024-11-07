@@ -1,0 +1,9 @@
+.footer {
+  position: relative;
+  margin-top: 0px;
+  display: flex;
+  min-height: 350px;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  z-index: 0;
+}
